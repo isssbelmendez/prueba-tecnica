@@ -1,0 +1,14 @@
+{
+  "tareas": [
+      {
+          "titulo": "Nueva tarea",
+          "descripcion": "Descripción de la tarea",
+          "completado": false
+      },
+      {
+          "titulo": "Título actualizado",
+          "descripcion": "Descripción actualizada",
+          "completado": true
+      }
+  ]
+}
